@@ -1,0 +1,13 @@
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\bin\Debug\netcoreapp3.1\X!Z.exe
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\bin\Debug\netcoreapp3.1\X!Z.deps.json
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\bin\Debug\netcoreapp3.1\X!Z.runtimeconfig.json
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\bin\Debug\netcoreapp3.1\X!Z.runtimeconfig.dev.json
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\bin\Debug\netcoreapp3.1\X!Z.dll
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\bin\Debug\netcoreapp3.1\X!Z.pdb
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.csproj.AssemblyReference.cache
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.AssemblyInfoInputs.cache
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.AssemblyInfo.cs
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.csproj.CoreCompileInputs.cache
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.dll
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.pdb
+C:\Users\Lias Mansion\source\repos\X!Z\X!Z\obj\Debug\netcoreapp3.1\X!Z.genruntimeconfig.cache
